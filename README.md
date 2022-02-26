@@ -1,4 +1,4 @@
 # test123
-websoket eee
+how run this websoket/como ejecutar este web soket?
 run npm i express
 run node server
