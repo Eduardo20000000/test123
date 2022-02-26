@@ -1,2 +1,4 @@
 # test123
-wesoket eee
+websoket eee
+run npm i express
+run node server
